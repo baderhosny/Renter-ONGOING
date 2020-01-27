@@ -1,0 +1,21 @@
+19
+houseID,roomID,type,price,isRented
+sam rd,0,room,750.00,true
+sam rd,1,room,1000.00,true
+8833 ronald rd,2,t,1000.00,true
+8833 ronald rd,3,t,1500.00,false
+8833 ronald rd,4,t,1750.00,true
+8833 ronald rd,5,t,2300.00,false
+8833 ronald rd,6,t,1500.00,true
+2138 rood rd,7,t,500.00,true
+2138 rood rd,8,t,700.00,true
+2138 rood rd,9,t,600.00,true
+2394 lernard rd,10,t,750.00,true
+2394 lernard rd,11,t,1200.00,false
+2394 lernard rd,12,t,900.00,true
+2394 lernard rd,13,t,1000.00,true
+1500 rnoldo st,14,t,1200.00,true
+1500 rnoldo st,15,t,700.00,true
+1500 rnoldo st,16,t,750.00,true
+1500 rnoldo st,17,t,1500.00,false
+1500 rnoldo st,18,t,650.00,true
